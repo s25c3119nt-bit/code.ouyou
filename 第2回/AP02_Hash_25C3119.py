@@ -22,6 +22,8 @@ def AP02_EX_Hash():
     else:
         print("該当する教授が見つかりません")
 
+   
 
 if __name__ == "__main__":
     AP02_EX_Hash()
+    
